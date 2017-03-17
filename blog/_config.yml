@@ -69,6 +69,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/aikakaliwang/blog
+  repository: https://github.com/aikakaliwang/blog.github.com.git
   branch: master
 
